@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-I'm a game programmer currently working at [Palindrome Interactive](https://palindromeinteractive.com) on an unannounced project. 
-
-My main programming language is C++ and I mostly work in Unreal Engine, however also have some experience working in Unity.
-
-Other then C++ I also have prior experience working in C and Python.
+I'm the System Administrator and Tech Lead currently working at [Pigs Will Fly Studios](https://pigswillflystudios.com) on an unannounced project. 
 
 ---
 ### Connect with me
@@ -12,4 +8,3 @@ Other then C++ I also have prior experience working in C and Python.
 You can always connect with me at:
 - [E-mail](mailto:me@sebastianolsson.com)
 - [LinkedIn](https://www.linkedin.com/in/olsson-sebastian)
-- [Twitter](https://twitter.com/SOlsson91)
