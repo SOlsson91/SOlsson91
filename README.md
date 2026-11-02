@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a System and Gameplay programmer at [DoubleMoost Games](https://doublemoose.com/) on an unannounced project. 
+I'm a System and Gameplay programmer at [DoubleMoose Games](https://doublemoose.com/) on an unannounced project. 
 
 ---
 ### Connect with me
